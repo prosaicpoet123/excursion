@@ -22,12 +22,12 @@ h2 {
 }
 
 p {
-  font-color: grey;
+  color: gray;
   font-size: 21px;
 }
 
 a {
-  font-color: aquamarine;
+  color: aquamarine;
   font-size: 16px;
   text-decoration: underline;
 }
